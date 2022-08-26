@@ -5,7 +5,7 @@
 # About this project
 
 * This is the Data Visualization project to manifest the power of data visualization in order to understand and explore the data.
-* This visualization are created to analyse contribution made by different countries towards the CO2 emissions beginning from early 1750's.
+* This visualization are created to analyze contribution made by different countries towards the CO2 emissions beginning from early 1750's.
 
 you can download the data from https://ourworldindata.org/co2-emissions.
 
