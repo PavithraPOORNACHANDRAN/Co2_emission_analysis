@@ -9,7 +9,7 @@
 
 you can download the data from https://ourworldindata.org/co2-emissions.
 
-In this project, we used four different kind of visualization, at last created a bashboard to put allthe visaulization together in one place using python library called panel.
+In this project, we used four different kind of visualization, at last created a bashboard to put all the visaulization together in one place by using python library called panel.
 The panel has a lot of bashboarding templates which allows us to put all the visualization together. To know more about panel https://panel.holoviz.org/user_guide/Templates.html
 
 
